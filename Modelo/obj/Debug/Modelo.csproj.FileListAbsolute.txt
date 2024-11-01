@@ -1,0 +1,51 @@
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\Modelo.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\Modelo.pdb
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\MySql.Data.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\ZstdNet.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\bin\Debug\MySql.Data.xml
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\obj\Debug\Modelo.csproj.CopyComplete
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\obj\Debug\Modelo.dll
+C:\Users\paiz2\OneDrive\Clases UMG\2022\Semestre 2\Antigua\Desarrollo Web\Semana 8\web_umg_bd\Modelo\obj\Debug\Modelo.pdb
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\Modelo.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\Modelo.pdb
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\Google.Protobuf.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\ZstdNet.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\BouncyCastle.Crypto.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\Ubiety.Dns.Core.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\System.Buffers.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\K4os.Compression.LZ4.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\K4os.Hash.xxHash.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\bin\Debug\MySql.Data.xml
+C:\xampp\htdocs\pr_empresa1\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\xampp\htdocs\pr_empresa1\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\pr_empresa1\Modelo\obj\Debug\Modelo.csproj.Up2Date
+C:\xampp\htdocs\pr_empresa1\Modelo\obj\Debug\Modelo.dll
+C:\xampp\htdocs\pr_empresa1\Modelo\obj\Debug\Modelo.pdb
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\obj\Debug\Modelo.csproj.AssemblyReference.cache
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\obj\Debug\Modelo.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\obj\Debug\Modelo.pdb
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\Modelo.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\Modelo.pdb
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\Google.Protobuf.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\ZstdNet.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\System.Buffers.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\MySql.Data.xml
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jtorr\OneDrive\Escritorio\pr_empresa\Modelo\obj\Debug\Modelo.csproj.Up2Date
